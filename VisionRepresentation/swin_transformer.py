@@ -25,7 +25,7 @@ class SwinTransformer(nn.Module):
         self.stage3 = StageModule(hidden_dim * 2, hidden_dim * 4, layers[2], downscaling_factors[2], heads[2], head_dim, window_size, relative_pos_embedding)
         self.stage4 = StageModule(hidden_dim * 4, hidden_dim * 8, layers[3], downscaling_factors[3], heads[3], head_dim, window_size, relative_pos_embedding)
 
-        self.mlp_head = nn.Seq
+        self.mlp_head = nn.Sequential
 
 class StageModule(nn.Module):
     def __init__(self, in_channels, hidden_dim, layers, downscaling_factor, num_heads, head_dim, window_size,
