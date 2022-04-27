@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbef3388-c645-479b-8fa3-14027c6aa1f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../fcos/flasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fcos/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faster-rcnn/model/utils/nms/non_maximum_suppression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faster-rcnn/model/utils/roi_cupy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faster-rcnn/utils/array_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbo-boost-detection-master/lib/OT_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbo-boost-detection-master/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbo-boost-detection-master/lib/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbo-boost-detection-master/lib/layers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbo-boost-detection-master/lib/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbo-boost-detection-master/lib/nms/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbo-boost-detection-master/lib/roi_align/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbo-boost-detection-master/lib/roi_pooling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbo-boost-detection-master/lib/sub_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbo-boost-detection-master/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbo-boost-detection-master/tools/collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turbo-boost-detection-master/tools/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../smokeDet/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../smokeDet/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../smokeDet/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../smokeDet/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../smokeDet/utils/activations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../smokeDet/utils/general.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../smokeDet/utils/layers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../smokeDet/utils/loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../smokeDet/utils/metric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../smokeDet/utils/parse_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../smokeDet/utils/torch_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Rebost.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv_course/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv_course/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fcos/run_onnx_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../fcos/run_onnx_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../leetcode/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../leetcode/eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../leetcode/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../leetcode/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27oab9r8P09xu0X7WDlytUZPC8t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="credentialsType com.jetbrains.python.remote.PyCreateRemoteInterpreterDialog$PyCreateRemoteSdkForm" value="Web Deployment" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="clip_ongoing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MultiModal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clip_ongoing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MultiModal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.clip_ongoing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbef3388-c645-479b-8fa3-14027c6aa1f4" name="Changes" comment="" />
+      <created>1649988960779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649988960779</updated>
+      <workItem from="1649988961855" duration="403000" />
+      <workItem from="1649989384702" duration="831000" />
+      <workItem from="1649991651006" duration="27349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MultiModal$test.coverage" NAME="test Coverage Results" MODIFIED="1650091787428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MultiModal$clip_ongoing.coverage" NAME="clip_ongoing Coverage Results" MODIFIED="1650011095993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
